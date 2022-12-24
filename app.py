@@ -11,6 +11,7 @@ import pickle
 # 2. Create app object
 app = FastAPI()
 
+
 # 3. Load the classifier file
 with open('svclassifier.pickle', 'rb') as file:
     classifier = pickle.load(file)
