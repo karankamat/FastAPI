@@ -7,6 +7,7 @@ import sklearn
 from banknoteattributes import BankNote
 import pickle
 
+
 # 2. Create app object
 app = FastAPI()
 
