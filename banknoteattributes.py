@@ -6,3 +6,5 @@ class BankNote(BaseModel):
     skewness: float
     curtosis: float
     entropy: float
+
+  
