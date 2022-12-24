@@ -1,0 +1,10 @@
+'''
+List of all the dependencies for this project.
+To install all the requirements run "pip install -r requirements.txt"
+'''
+
+FastAPI~=0.88.0
+
+
+pydantic~=1.10.2
+uvicorn~=0.20.0
